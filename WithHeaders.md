@@ -1,6 +1,7 @@
 	
-    ### Brutal forcing on password reset
+    ### Brutal forcing on different input fields, especially password reset
     ### On request manupilation
+	###T his would result to bypassing the web application firewall, and accessing administrator panel
     
     X-Forward-For: 127.0.0.1
 	Base-Url: 127.0.0.1
